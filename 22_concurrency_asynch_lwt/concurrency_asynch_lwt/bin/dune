@@ -1,0 +1,4 @@
+(executable
+ (public_name concurrency_asynch_lwt)
+ (name main)
+ (libraries concurrency_asynch_lwt))

@@ -1,0 +1,7 @@
+# dune init project concurrency_asynch_lwt
+# OCAMLPARAM: unset
+# Shared cache: enabled-except-user-rules
+# Shared cache location: /Users/jean-baptisterenaux/.cache/dune/db
+# Workspace root:
+# /Users/jean-baptisterenaux/GitHub/ocaml/22_concurrency_asynch_lwt/concurrency_asynch_lwt
+# Auto-detected concurrency: 8
